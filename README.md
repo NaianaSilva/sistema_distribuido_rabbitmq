@@ -77,7 +77,7 @@ Após a inicialização completa de todos os containers (o que pode levar alguns
 
     ## Monitoramento da fila face no RabbitMQ
 
-    A segunda captura de tela refere-se à interface de administração do RabbitMQ, mostrando o estado da fila face. 
+    A segunda captura de tela que pode ser vista abaixo refere-se à interface de administração do RabbitMQ, mostrando o estado da fila face. 
 
     • Mensagens na fila:
 
@@ -116,14 +116,21 @@ Na interface de gerenciamento do Rabbitmq é possivel:
 
 1. Verificar as filas criadas: 
     • fila_face 
+
     • fila_team 
 2. Monitorar: 
     • Mensagens publicadas 
+
     • Mensagens consumidas 
+
     • Taxa de transferência 
+
     • Consumidores ativos 
+
 3. Verificar conexões ativas: 
+
     • Conexão do gerador 
+
     • Conexões dos consumidores
 
 
