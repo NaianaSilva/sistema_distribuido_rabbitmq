@@ -140,4 +140,4 @@ as fotos acima não corresponde aos mesmos resultados vistos no video, pois fora
 
 
 link do video no you tube para assitir toda explicação do trabalho.
-     [![Assista ao vídeo no YouTube](https://img.youtube.com/vi/yPShgjBfKSw/0.jpg)](https://youtu.be/yPShgjBfKSw)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/yPShgjBfKSw/0.jpg)](https://youtu.be/yPShgjBfKSw)
