@@ -134,7 +134,9 @@ Na interface de gerenciamento do Rabbitmq é possivel:
     • Conexões dos consumidores
 
 
-OBSERVAÇÃO: as fotos acima não corresponde aos mesmos resultados vistos no video, pois foram tiradas em outro momento em que o comando foi rodado no terminal.
+## OBSERVAÇÃO: 
+
+as fotos acima não corresponde aos mesmos resultados vistos no video, pois foram tiradas em outro momento em que o comando foi rodado no terminal.
 
 
 link do video no you tube para assitir toda explicação do trabalho.
